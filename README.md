@@ -14,7 +14,7 @@ This project is a web application built using [Next.js](https://nextjs.org/) for
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/demo-project.git](https://github.com/vishalbansal28/nextjs-go-fiber)
+   git clone https://github.com/vishalbansal28/nextjs-go-fiber.git
    cd demo-project
    ```
 
@@ -119,6 +119,3 @@ For the backend, consider using platforms like Heroku, AWS, or any other cloud p
 
 Your feedback and contributions are welcome! Please check out the [Next.js GitHub repository](https://github.com/vercel/next.js/) and [Fiber GitHub repository](https://github.com/gofiber/fiber) for more information.
 
----
-
-This is a brief overview of the project structure and setup. For detailed information on each component and functionality, refer to the respective code files and comments.
