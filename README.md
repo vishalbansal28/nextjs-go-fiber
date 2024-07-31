@@ -14,7 +14,7 @@ This project is a web application built using [Next.js](https://nextjs.org/) for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/demo-project.git
+   git clone [https://github.com/your-repo/demo-project.git](https://github.com/vishalbansal28/nextjs-go-fiber)
    cd demo-project
    ```
 
